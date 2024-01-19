@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-sight-320313",
+  "private_key_id": "054eec040f1a37141bd1dbe0feb03b896f4e5a4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCyE2zBv+WL+iL7\nMe5+007taIqiQMIgo7DCXkPWIjj4QyNJ4sbJaBUup7uOZHmwU8ms6LnbvTakee7Q\nm04Fmhs2Pdye+QF1AyLdtHtxU2TdyNiyfIzSBH1r3vpY/eo3IIdPxgOczl4/IXlt\n/y+MkPOzJmBwif1mGWBGoKB9JECcakre7+lhChKbsNZ0KuqS3+R3p4ICB72mpJX1\nzNZ+humV45gxuw8mZyVy3KWH/k4rtWptE8csD6sdQ0R6OUaeGsmpf+yo9O5//zxn\nYGF6o/Ub+B1IyAMaZ3FyP/QhHP3L2aJiFQa+8PXqpWxAcQhsPuCC1TNi26rJS4/k\nPlfTM4htAgMBAAECggEAKV1wxHrmgAL9UDtziptcOLKxjWocjgdoHmZWPK4bbLPv\nxRB8G7nlPb6xxyxYxhhYfyVaUwxbXo6CZovE7nEzRADPuE/gQkWVuklb6WG1Sv2G\nNMPQ1FI9riqQHc7xspeIRwQYv7qCUwjcE6yU54KeUW2nNk0fgzF+1zklvpwGtC5r\nLU23Z6eFqu4pcOz8GmbwMJVlfXmSY2m1zq6MdqdSotNvDcohExnYgfb0jIyXS607\n94Q+68ZLHLu7b9OMExQJA+C/AchjuZ9GDz0WCSJoTxftdkwKOSd/aY3Foso9Z6XA\nKFqJiXGAzaIoAxiY09QxRz2Q5eI2pSlgsEspikVzgQKBgQDnWzTFYjBVrb94PXX0\nKRtZj7LKsIrq3Hc2859NCGYKFLJrv/2lP5huRXfL97zwWLZEVZmKMS6QxTqjzbv+\nzBmXpe8NJOf10prj9M6JKHPtIjSXiFlidLt31SZlBRny6Nn798JZ5iQh8adDo3T1\nyjW3QP21CxEJTpwk2skrIxBGwQKBgQDFC1RZQRlMJy3ofbbR+6Nr9s2XmM28hF81\n2lfLG62cUDsWttFAJLEtHKMnPtRTN5cSTafJIizJI3GmVv8ej1Xav4pVZXBN01Ia\n+d6hko+FufnuF4OqBNSVt3swrXK05BsbCqtutAoX5iSDhFBH3Zb2D8qPQsLYLPxr\n7OGZZZm4rQJ/KZI56T27canGvdRNXZIFWBJ6DfGrBIiY40bjWPQpYaZWaQYWjZrf\nyPCylfPt/0HxflXjQPGVbG4EG2rcXOxPrPAkBDiddY5iRpO2iO675eA/kvrtFMPk\n66NhQsWn4/3zLVNXmM/Brle9tmmomoG7JTKIY/+ZEBMP+49Ulmu2gQKBgBaQipNC\nCjSXVAGIy/PV/kvx0m9m10CcZA7VtzISNFpvMaUTQHk4+nUxD1oCLuxstEcrT2iQ\nGlLaVTx4P/Tu8yT+xEetOyQebAucy6rzDq6AsqdaWACTVwjiHyBe7IDckmIRYbpm\nsbU07L+G2m6waIY7HrYzLf71f96YHOmlIeptAoGBALHT7Cwdpx+l66JtWMEeMBxg\nGtM1LB8AW25+qVQpeGBF4Np/3E3bY8/ATF5SaIWtQ2Mpmdc1ON9ZE9i6A5fc9jWa\n22CnHGsDldG8SpRbnHvzfgqwJexs2mqXptMs6EtSnkFpmAP5KEvAvv1N9VIha6gS\nwYV/1SWvhZix6/CgJi4t\n-----END PRIVATE KEY-----\n",
+  "client_email": "skillgati-ops-server@carbon-sight-320313.iam.gserviceaccount.com",
+  "client_id": "113264663051922540881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skillgati-ops-server%40carbon-sight-320313.iam.gserviceaccount.com"
+}
